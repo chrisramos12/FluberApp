@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MapsActivity" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#D8FF5722</item>
+        <item name="colorPrimaryDark">#FF5722</item>
+        <item name="colorAccent">#546E7A</item>
+
+    </style>
+
+    <style name="botaoPadrao" parent="Theme.AppCompat.Light">
+        <item name="colorControlHighlight">#DA34F6</item>
+        <item name="colorButtonNormal">#4d1d4d</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Theme.MapsActivity.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.MapsActivity.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.MapsActivity.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

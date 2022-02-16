@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "690294658702",
+    "project_id": "fluber-ff5e1",
+    "storage_bucket": "fluber-ff5e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690294658702:android:3872e418bc2b335e1ddbdf",
+        "android_client_info": {
+          "package_name": "com.chris.mapsactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690294658702-a78i67d8cmlojgqrv7mfus80vlqsuv18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chris.mapsactivity",
+            "certificate_hash": "a191bc8a52f377580ec566bea2ce150d17105d1e"
+          }
+        },
+        {
+          "client_id": "690294658702-fd88ibok7r5qrdebh8f1ujn6iq997bn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFToCVATQu1aSz59uGRL-AWlGip7dhjzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690294658702-fd88ibok7r5qrdebh8f1ujn6iq997bn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
